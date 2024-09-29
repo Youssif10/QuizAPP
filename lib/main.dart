@@ -145,7 +145,7 @@ class Result extends StatelessWidget {
             style: TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
           ),
           Text(
-            'Your Score: $totalScore',
+            'Your Score: $totalScore from 3',
             style: const TextStyle(fontSize: 24),
           ),
           ElevatedButton(
